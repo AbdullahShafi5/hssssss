@@ -16,10 +16,10 @@ import pandas as pd
 from tabulate import tabulate
 pd.set_option('display.width', 5000)
 import matplotlib.pyplot as plt
-import anvil.mpl_util
-import anvil.server
-import anvil.tables as tables
-from anvil.tables import app_tables
+# import anvil.mpl_util
+# import anvil.server
+# import anvil.tables as tables
+# from anvil.tables import app_tables
 
 anvil.server.connect("56QKF5UQYD2UTTLNTYKDW7HY-IZ5NVFY5T7JHEZG2")
 
