@@ -102,7 +102,7 @@ pyOpenSSL==21.0.0
 pyparsing==2.4.7
 PyPDF2==1.26.0
 PyPDF4==1.27.0
-pypiwin32==223
+# pypiwin32==223
 pyppeteer==0.2.6
 pyquery==1.4.3
 pyrsistent==0.18.0
