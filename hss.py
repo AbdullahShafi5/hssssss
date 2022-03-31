@@ -13,7 +13,7 @@ Original file is located at
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-from tabulate import tabulate
+# from tabulate import tabulate
 pd.set_option('display.width', 5000)
 import matplotlib.pyplot as plt
 import anvil.mpl_util
