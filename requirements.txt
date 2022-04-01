@@ -1,5 +1,5 @@
 anvil==0.0.2
-anvil-uplink==0.3.42
+anvil-uplink==0.3.40
 anvil-app-server==1.6.5
 beautifulsoup4==4.10.0
 bs4==0.0.1
